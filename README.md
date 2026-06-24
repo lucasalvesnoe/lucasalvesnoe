@@ -56,9 +56,9 @@ $ cat ~/info.sh
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Oracle Cloud VPS](https://img.shields.io/badge/Oracle%20Cloud%20VPS-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Real-time & Data
@@ -103,6 +103,7 @@ $ cat ~/info.sh
 
 ![HeyGen](https://img.shields.io/badge/HeyGen-FF6B35?style=for-the-badge&logo=heygen&logoColor=white)
 ![Highfield](https://img.shields.io/badge/Highfield-FF10F0?style=for-the-badge&logo=video&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 ### AI Development & Orchestration
 
@@ -121,6 +122,8 @@ $ cat ~/info.sh
 ![Edge-TTS](https://img.shields.io/badge/Edge%20TTS%20Neural-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
 ![WebRTC VAD](https://img.shields.io/badge/WebRTC%20VAD-FF9500?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Piper TTS](https://img.shields.io/badge/Piper%20TTS-FF6B35?style=for-the-badge&logo=python&logoColor=white)
+![Grok Voice](https://img.shields.io/badge/Grok%20Voice-000000?style=for-the-badge&logo=x&logoColor=white)
+![Gemini Live](https://img.shields.io/badge/Gemini%20Live%20%28Preview%29-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ### Agentes de IA & Orquestração
 
@@ -146,22 +149,6 @@ $ cat ~/info.sh
 ![Telegram API](https://img.shields.io/badge/Telegram%20API-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
 ![Pluggy API](https://img.shields.io/badge/Pluggy%20API-FF6B35?style=for-the-badge&logo=api&logoColor=white)
 ![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-
-### Forms & Validation
-
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=react&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod%20Validation-3068AD?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Data Visualization
-
-![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge&logo=react&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-### PDF & Document Generation
-
-![jsPDF](https://img.shields.io/badge/jsPDF-E3000B?style=for-the-badge&logo=pdf&logoColor=white)
-![PDF-lib](https://img.shields.io/badge/PDF%20Lib-DC143C?style=for-the-badge&logo=pdf&logoColor=white)
 
 ---
 
@@ -178,12 +165,12 @@ $ cat ~/info.sh
     "frontend": "TypeScript + React/Angular/Next.js (99%+)",
     "backend": "Python + FastAPI + Node.js + Express",
     "ai": "Claude + Anthropic Suite + Gemini + GPT-4 + LangChain",
-    "voice": "Claude Terminal + Whisper + ElevenLabs + Edge-TTS + WebRTC",
+    "voice": "Whisper + ElevenLabs + Edge-TTS + WebRTC + Grok Voice + Gemini Live",
     "embedded": "Python + Firmware Development + RF Engineering + SDR",
     "security": "AI-Powered Automation + Claude Security Orchestration",
     "infra": "Docker + Supabase + Azure DevOps + Oracle Cloud VPS + Socket.io + Redis",
     "dev_tools": "Claude Code + VS Code + Windsurf + N8n",
-    "integrations": "WhatsApp + Telegram + Pluggy + FFmpeg"
+    "integrations": "WhatsApp + Telegram + Pluggy + Google APIs"
   }
 }
 ```
