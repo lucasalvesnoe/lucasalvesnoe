@@ -95,8 +95,6 @@ $ cat ~/info.sh
 
 ![Claude API](https://img.shields.io/badge/Claude%20API-5B21B6?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude Vision](https://img.shields.io/badge/Claude%20Vision%20+%20OCR-6366F1?style=for-the-badge&logo=anthropic&logoColor=white)
-![Claude Terminal](https://img.shields.io/badge/Claude%20Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Anthropic Workbench](https://img.shields.io/badge/Workbench-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### Content & Media Generation
@@ -109,7 +107,6 @@ $ cat ~/info.sh
 
 ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Architecture-FF6B9D?style=for-the-badge&logo=openai&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector%20Embeddings-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy%20NLP-09A3D5?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -125,21 +122,9 @@ $ cat ~/info.sh
 ![Grok Voice](https://img.shields.io/badge/Grok%20Voice-000000?style=for-the-badge&logo=x&logoColor=white)
 ![Gemini Live](https://img.shields.io/badge/Gemini%20Live%20%28Preview%29-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-### Agentes de IA & Orquestração
-
-![Agentes Orquestrados](https://img.shields.io/badge/Agentes%20Orquestrados-7C3AED?style=for-the-badge&logo=chainlink&logoColor=white)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi%20Agent%20Systems-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
-
-### Segurança & Automação
-
-![AI Security Automation](https://img.shields.io/badge/AI%20Security%20Automation-FF6B35?style=for-the-badge&logo=linux&logoColor=white)
-![Security Orchestration via Claude](https://img.shields.io/badge/Security%20Orchestration%20via%20Claude-5B21B6?style=for-the-badge&logo=anthropic&logoColor=white)
-![Automated Pentesting](https://img.shields.io/badge/Automated%20Pentesting-DC143C?style=for-the-badge&logo=gnubash&logoColor=white)
-
 ### Embedded Systems & RF
 
 ![Embedded Python](https://img.shields.io/badge/Embedded%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Firmware Development](https://img.shields.io/badge/Firmware%20Development-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![RF Engineering](https://img.shields.io/badge/RF%20Engineering-FF6B35?style=for-the-badge&logo=radio&logoColor=white)
 ![SDR](https://img.shields.io/badge/SDR%20--%20Software%20Defined%20Radio-4DB8D8?style=for-the-badge&logo=rss&logoColor=white)
 
