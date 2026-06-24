@@ -27,7 +27,7 @@ $ cat ~/info.sh
 
 ---
 
-Frontend Stack
+### Frontend Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -38,13 +38,14 @@ Frontend Stack
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-UI & Styling
+### UI & Styling
+
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix%20UI-111111?style=for-the-badge&logo=radixui&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-Backend & DevOps
+### Backend & DevOps
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -56,18 +57,22 @@ Backend & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Cloud VPS](https://img.shields.io/badge/Oracle%20Cloud%20VPS-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Real-time & Data
+### Real-time & Data
+
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Bull](https://img.shields.io/badge/Bull%20Queue-FFD700?style=for-the-badge&logo=redis&logoColor=black)
 
-Controle de Versão
+### Controle de Versão
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Dev Tools & IDEs
+### Dev Tools & IDEs
 
 ![Windsurf](https://img.shields.io/badge/Windsurf-FF6B35?style=for-the-badge&logo=windsurf&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -76,9 +81,9 @@ Dev Tools & IDEs
 
 ---
 
-AI / ML Ecosystem
+## AI / ML Ecosystem
 
-Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 ![Claude](https://img.shields.io/badge/Anthropic%20Claude-5B21B6?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -86,7 +91,7 @@ Large Language Models (LLMs)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-095DFF?style=for-the-badge&logo=deepseek&logoColor=white)
 ![GPT-4](https://img.shields.io/badge/OpenAI%20GPT4-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-Anthropic Suite (Full Stack)
+### Anthropic Suite (Full Stack)
 
 ![Claude API](https://img.shields.io/badge/Claude%20API-5B21B6?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude Vision](https://img.shields.io/badge/Claude%20Vision%20+%20OCR-6366F1?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -94,12 +99,12 @@ Anthropic Suite (Full Stack)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Anthropic Workbench](https://img.shields.io/badge/Workbench-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
 
-Content & Media Generation
+### Content & Media Generation
 
 ![HeyGen](https://img.shields.io/badge/HeyGen-FF6B35?style=for-the-badge&logo=heygen&logoColor=white)
 ![Highfield](https://img.shields.io/badge/Highfield-FF10F0?style=for-the-badge&logo=video&logoColor=white)
 
-AI Development & Orchestration
+### AI Development & Orchestration
 
 ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -109,7 +114,7 @@ AI Development & Orchestration
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-Voice & Audio
+### Voice & Audio
 
 ![Whisper API](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs%20TTS-4DB8D8?style=for-the-badge&logo=elevenlabs&logoColor=white)
@@ -117,25 +122,25 @@ Voice & Audio
 ![WebRTC VAD](https://img.shields.io/badge/WebRTC%20VAD-FF9500?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Piper TTS](https://img.shields.io/badge/Piper%20TTS-FF6B35?style=for-the-badge&logo=python&logoColor=white)
 
-Agentes de IA & Orquestração
+### Agentes de IA & Orquestração
 
 ![Agentes Orquestrados](https://img.shields.io/badge/Agentes%20Orquestrados-7C3AED?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi%20Agent%20Systems-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
 
-Segurança & Automação
+### Segurança & Automação
 
 ![AI Security Automation](https://img.shields.io/badge/AI%20Security%20Automation-FF6B35?style=for-the-badge&logo=linux&logoColor=white)
 ![Security Orchestration via Claude](https://img.shields.io/badge/Security%20Orchestration%20via%20Claude-5B21B6?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Automated Pentesting](https://img.shields.io/badge/Automated%20Pentesting-DC143C?style=for-the-badge&logo=gnubash&logoColor=white)
 
-Embedded Systems & RF
+### Embedded Systems & RF
 
 ![Embedded Python](https://img.shields.io/badge/Embedded%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Firmware Development](https://img.shields.io/badge/Firmware%20Development-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![RF Engineering](https://img.shields.io/badge/RF%20Engineering-FF6B35?style=for-the-badge&logo=radio&logoColor=white)
 ![SDR](https://img.shields.io/badge/SDR%20--%20Software%20Defined%20Radio-4DB8D8?style=for-the-badge&logo=rss&logoColor=white)
 
-Integrações & APIs
+### Integrações & APIs
 
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Telegram API](https://img.shields.io/badge/Telegram%20API-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
@@ -143,21 +148,24 @@ Integrações & APIs
 ![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
-Forms & Validation
+### Forms & Validation
+
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=react&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod%20Validation-3068AD?style=for-the-badge&logo=typescript&logoColor=white)
 
-Data Visualization
+### Data Visualization
+
 ![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge&logo=react&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-PDF & Document Generation
+### PDF & Document Generation
+
 ![jsPDF](https://img.shields.io/badge/jsPDF-E3000B?style=for-the-badge&logo=pdf&logoColor=white)
 ![PDF-lib](https://img.shields.io/badge/PDF%20Lib-DC143C?style=for-the-badge&logo=pdf&logoColor=white)
 
 ---
 
-Roadmap
+## Roadmap
 
 ```json
 {
@@ -173,7 +181,7 @@ Roadmap
     "voice": "Claude Terminal + Whisper + ElevenLabs + Edge-TTS + WebRTC",
     "embedded": "Python + Firmware Development + RF Engineering + SDR",
     "security": "AI-Powered Automation + Claude Security Orchestration",
-    "infra": "Docker + Supabase + Azure DevOps + Oracle Cloud + Socket.io + Redis",
+    "infra": "Docker + Supabase + Azure DevOps + Oracle Cloud VPS + Socket.io + Redis",
     "dev_tools": "Windsurf + Vercel + N8n + Monaco Editor",
     "integrations": "WhatsApp + Telegram + Pluggy + FFmpeg"
   }
@@ -182,7 +190,7 @@ Roadmap
 
 ---
 
-GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -196,7 +204,7 @@ GitHub Stats
 
 ---
 
-Contribuições
+## Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasalvesnoe/lucasalvesnoe/output/github-contribution-grid-snake-dark.svg">
@@ -206,7 +214,7 @@ Contribuições
 
 ---
 
-Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-noé-a08739183/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasalvesnoe)
