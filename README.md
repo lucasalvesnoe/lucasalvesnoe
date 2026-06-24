@@ -21,7 +21,7 @@ $ cat ~/info.sh
 [✓] Status      →  Construindo [████████░░] 80%
 ```
 
-[![Visitas](https://visitcount.itsvg.in/api?id=lucasalvesnoe&icon=5&color=6)](https://visitcount.itsvg.in)
+![Visitas](https://komarev.com/ghpvc/?username=lucasalvesnoe&style=for-the-badge&color=5B21B6&label=VISITAS)
 
 </div>
 
@@ -67,11 +67,6 @@ $ cat ~/info.sh
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Bull](https://img.shields.io/badge/Bull%20Queue-FFD700?style=for-the-badge&logo=redis&logoColor=black)
-
-### Controle de Versão
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Dev Tools & IDEs
 
