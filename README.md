@@ -5,7 +5,7 @@
  ██║     ██║   ██║██╔════╝██╔══██╗██╔════╝    ████╗  ██║██╔═══██╗██╔════╝
  ██║     ██║   ██║██║     ███████║███████╗    ██╔██╗ ██║██║   ██║█████╗  
  ██║     ██║   ██║██║     ██╔══██║╚════██║    ██║╚██╗██║██║   ██║██╔══╝  
- ███████╗╚██████╔╝╚██████╗██║  ██║███████║    ██║ ╚████║╚██████╔╝██████╗ 
+ ███████╗╚██████╔╝╚██████╗██║  ██║███████║    ██║ ╚████║╚██████╔╝██████║
  ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
 </pre>
 
@@ -17,7 +17,7 @@ $ cat ~/info.sh
 [✓] Alias       →  lucasalvesnoe
 [✓] Função      →  AI Solutions Architect
 [✓] Objetivo    →  IA aplicada a negócios reais
-[✓] Localização →  Brasil
+[✓] Localização →  Depende da VPN
 [✓] Status      →  Construindo [████████░░] 80%
 ```
 
@@ -111,9 +111,15 @@ $ cat ~/info.sh
 ### 🎤 Voice & Audio
 
 ![Whisper API](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs%20TTS-4DB8D8?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![Edge-TTS](https://img.shields.io/badge/Edge%20TTS%20Neural-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
 ![WebRTC VAD](https://img.shields.io/badge/WebRTC%20VAD-FF9500?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Piper TTS](https://img.shields.io/badge/Piper%20TTS-FF6B35?style=for-the-badge&logo=python&logoColor=white)
+
+### 🤖 Agentes de IA & Orquestração
+
+![Agentes Orquestrados](https://img.shields.io/badge/Agentes%20Orquestrados-7C3AED?style=for-the-badge&logo=chainlink&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi%20Agent%20Systems-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ## 🌐 Integrações & APIs
 
@@ -150,7 +156,7 @@ $ cat ~/info.sh
     "frontend": "TypeScript + React/Angular/Next.js (99%+)",
     "backend": "Python + FastAPI + Node.js + Express",
     "ai": "Claude + Anthropic Suite + Gemini + GPT-4 + LangChain",
-    "voice": "Claude Terminal + Whisper + Edge-TTS + WebRTC",
+    "voice": "Claude Terminal + Whisper + ElevenLabs + Edge-TTS + WebRTC",
     "infra": "Docker + Supabase + Azure DevOps + Socket.io + Redis",
     "dev_tools": "Windsurf + Vercel + N8n + Monaco Editor",
     "integrations": "WhatsApp + Telegram + Pluggy + FFmpeg"
