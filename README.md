@@ -74,10 +74,10 @@ $ cat ~/info.sh
 
 ### Dev Tools & IDEs
 
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-FF6B35?style=for-the-badge&logo=windsurf&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![N8n](https://img.shields.io/badge/N8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white)
-![Monaco Editor](https://img.shields.io/badge/Monaco%20Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -182,7 +182,7 @@ $ cat ~/info.sh
     "embedded": "Python + Firmware Development + RF Engineering + SDR",
     "security": "AI-Powered Automation + Claude Security Orchestration",
     "infra": "Docker + Supabase + Azure DevOps + Oracle Cloud VPS + Socket.io + Redis",
-    "dev_tools": "Windsurf + Vercel + N8n + Monaco Editor",
+    "dev_tools": "Claude Code + VS Code + Windsurf + N8n",
     "integrations": "WhatsApp + Telegram + Pluggy + FFmpeg"
   }
 }
