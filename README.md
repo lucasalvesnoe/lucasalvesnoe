@@ -27,7 +27,9 @@ $ cat ~/info.sh
 
 ---
 
-### Frontend Stack
+## Tech Stack
+
+### Frontend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -59,7 +61,6 @@ $ cat ~/info.sh
 ![Oracle Cloud VPS](https://img.shields.io/badge/Oracle%20Cloud%20VPS-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Real-time & Data
 
@@ -79,6 +80,13 @@ $ cat ~/info.sh
 ![Windsurf](https://img.shields.io/badge/Windsurf-FF6B35?style=for-the-badge&logo=windsurf&logoColor=white)
 ![N8n](https://img.shields.io/badge/N8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white)
 
+### Integrações & APIs
+
+![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram%20API-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
+![Pluggy API](https://img.shields.io/badge/Pluggy%20API-FF6B35?style=for-the-badge&logo=api&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 ---
 
 ## AI / ML Ecosystem
@@ -89,18 +97,12 @@ $ cat ~/info.sh
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Llama](https://img.shields.io/badge/Meta%20Llama-13B81C?style=for-the-badge&logo=meta&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-095DFF?style=for-the-badge&logo=deepseek&logoColor=white)
-![GPT-4](https://img.shields.io/badge/OpenAI%20GPT4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Anthropic Suite (Full Stack)
-
-![Claude API](https://img.shields.io/badge/Claude%20API-5B21B6?style=for-the-badge&logo=anthropic&logoColor=white)
-![Claude Vision](https://img.shields.io/badge/Claude%20Vision%20+%20OCR-6366F1?style=for-the-badge&logo=anthropic&logoColor=white)
-![Anthropic Workbench](https://img.shields.io/badge/Workbench-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
-
-### Content & Media Generation
+### Content & Media
 
 ![HeyGen](https://img.shields.io/badge/HeyGen-FF6B35?style=for-the-badge&logo=heygen&logoColor=white)
-![Highfield](https://img.shields.io/badge/Highfield-FF10F0?style=for-the-badge&logo=video&logoColor=white)
+![Higgsfield](https://img.shields.io/badge/Higgsfield-FF10F0?style=for-the-badge&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 ### AI Development & Orchestration
@@ -109,12 +111,11 @@ $ cat ~/info.sh
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector%20Embeddings-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy%20NLP-09A3D5?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Voice & Audio
 
-![Whisper API](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs%20TTS-4DB8D8?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![Edge-TTS](https://img.shields.io/badge/Edge%20TTS%20Neural-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
 ![WebRTC VAD](https://img.shields.io/badge/WebRTC%20VAD-FF9500?style=for-the-badge&logo=webrtc&logoColor=white)
@@ -122,18 +123,13 @@ $ cat ~/info.sh
 ![Grok Voice](https://img.shields.io/badge/Grok%20Voice-000000?style=for-the-badge&logo=x&logoColor=white)
 ![Gemini Live](https://img.shields.io/badge/Gemini%20Live%20%28Preview%29-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-### Embedded Systems & RF
+---
+
+## Embedded Systems & RF
 
 ![Embedded Python](https://img.shields.io/badge/Embedded%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![RF Engineering](https://img.shields.io/badge/RF%20Engineering-FF6B35?style=for-the-badge&logo=radio&logoColor=white)
 ![SDR](https://img.shields.io/badge/SDR%20--%20Software%20Defined%20Radio-4DB8D8?style=for-the-badge&logo=rss&logoColor=white)
-
-### Integrações & APIs
-
-![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Telegram API](https://img.shields.io/badge/Telegram%20API-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
-![Pluggy API](https://img.shields.io/badge/Pluggy%20API-FF6B35?style=for-the-badge&logo=api&logoColor=white)
-![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -143,16 +139,15 @@ $ cat ~/info.sh
 {
   "status": "em progresso 🔥",
   "especialidade": "AI Solutions Architecture + Voice & Automation + Embedded Systems",
-  "aprendendo": ["LangGraph", "RAG Avançado", "Multi-Agent Systems", "MLOps", "Pentest AI Documentation", "Advanced RF Engineering"],
+  "aprendendo": ["LangGraph", "RAG Avançado", "Multi-Agent Systems", "MLOps", "Advanced RF Engineering"],
   "próximo_passo": ["Azure AI Studio", "Arquitetura Multi-Agente", "DevOps para IA", "Production Voice AI", "IoT + IA"],
-  "objetivo": "Soluções de IA de ponta a ponta para empresas + Automação de Segurança + Embedded Systems",
+  "objetivo": "Soluções de IA de ponta a ponta para empresas + Embedded Systems",
   "stack_atual": {
-    "frontend": "TypeScript + React/Angular/Next.js (99%+)",
+    "frontend": "TypeScript + React/Angular/Next.js",
     "backend": "Python + FastAPI + Node.js + Express",
-    "ai": "Claude + Anthropic Suite + Gemini + GPT-4 + LangChain",
+    "ai": "Claude + Gemini + OpenAI + LangChain",
     "voice": "Whisper + ElevenLabs + Edge-TTS + WebRTC + Grok Voice + Gemini Live",
-    "embedded": "Python + Firmware Development + RF Engineering + SDR",
-    "security": "AI-Powered Automation + Claude Security Orchestration",
+    "embedded": "Python + RF Engineering + SDR",
     "infra": "Docker + Supabase + Azure DevOps + Oracle Cloud VPS + Socket.io + Redis",
     "dev_tools": "Claude Code + VS Code + Windsurf + N8n",
     "integrations": "WhatsApp + Telegram + Pluggy + Google APIs"
